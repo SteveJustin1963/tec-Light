@@ -14,7 +14,7 @@ What are the types of metamaterials?
 - Acoustic Metamaterials.
 - Mechanical Metamaterials.
 
-What are the major properties of metamaterials? Ivisibility. Due to their peculiar optical capabilities (wavelength shorter than visible light), metamaterials can be invisible. ...Acoustic control. ... Negative electrical permittivity and magnetic permeability. ...they enable the extreme miniaturization of existing optical devices. For example, we can take an eyeglass lens and we can make it 100 times thinner than a strand of hair. This allows us to translate traditionally bulky optical systems to extremely small form factors.
+What are the major properties of metamaterials? Ivisibility. Due to their peculiar optical capabilities (wavelength shorter than visible light), metamaterials can be invisible. ...Acoustic control. ... Negative electrical permittivity and magnetic permeability. ...they enable the extreme miniaturization of existing optical devices. For example, we can take an eyeglass lens and we can make it 100 times thinner than a strand of hair. This allows us to translate traditionally bulky optical systems to extremely small form factors....Metamaterial antennas are a class of antennas which use metamaterials to increase performance of miniaturized (electrically small) antenna systems.
 
 ### Ref
 - https://www.sciencedaily.com/releases/2022/04/220427154106.htm
