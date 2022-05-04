@@ -1,4 +1,4 @@
-# tec-Light
+# tec-Metamaterials
 
 Zero-index metamaterials
 
